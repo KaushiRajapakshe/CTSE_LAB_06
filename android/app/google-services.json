@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "77396116877",
+    "firebase_url": "https://lab06-197da.firebaseio.com",
+    "project_id": "lab06-197da",
+    "storage_bucket": "lab06-197da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77396116877:android:ac10e392f610300177e9c4",
+        "android_client_info": {
+          "package_name": "com.sliit.lab06"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77396116877-8sqnis857k9mj91v6ojfa0vn59uqp6vq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACLqVSRnzRnF9JPHPfFrnIBTE4-Y-HmP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77396116877-8sqnis857k9mj91v6ojfa0vn59uqp6vq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
